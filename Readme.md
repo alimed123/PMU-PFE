@@ -41,12 +41,13 @@ This project is a full-stack solution for real-time monitoring and visualization
 - Listens to WebSocket alerts for instant notifications
 - Lets users select PMU, protocol, timeline, and phase for custom views
 
-## Getting Started
+## Documentation Links
 
-### Backend
+- [PMU Backend Service README](./Backend/Backend%20README.md)  
+  Details on backend setup, configuration, API endpoints, and troubleshooting.
 
-See **PMU Backend Service README** for setup, configuration, and API details.
+- [PMU Dashboard Frontend README](./FrontEnd/FRONTENDREADME.md)  
+  Instructions for installing, running, and using the React frontend.
 
-### Frontend
-
-See **PMU Dashboard Frontend README** for installation, running, and usage instructions.
+- [PMU-PDC Simulator Documentation](./PMUPDCSIM/ReadmeSIM.md)  
+  Guide for the PMU and PDC simulation notebooks and their usage.
